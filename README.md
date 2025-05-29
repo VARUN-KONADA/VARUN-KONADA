@@ -1,6 +1,5 @@
-<!-- 🌟 Supercharged & Interactive GitHub Profile README -->
 
-<h1 align="center">Hey there! 👋 I'm Dev</h1>
+<h1 align="center">Hey there! 👋 I'm VARUN</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Developer+💻;Lover+of+Clean+Code+📝;Always+Learning+Something+New+🚀;Let's+build+cool+stuff+🔥" alt="Typing SVG" />
@@ -11,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Student & Web Dev Enthusiast  
-- 🌱 Currently learning: `Node.js`, `React`, `MongoDB`  
+- 🌱 Currently learning: `PYTHON`
 - 👯‍♂️ Looking to collaborate on open-source mini projects  
 - ⚡ Fun Fact: I debug by walking away for snacks 🍫
 
@@ -20,7 +19,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -29,11 +28,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevUsername&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevUsername&theme=radical" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN-KONADA&theme=radical" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUsername&layout=compact&theme=radical" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN-KONADA&layout=compact&theme=radical" height="140" alt="Top Languages" />
 </p>
 
 ---
@@ -41,7 +40,7 @@
 ## 📈 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevUsername&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VARUN-KONADA&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -49,15 +48,16 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/DevUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DevUsername-black?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/VARUN-KONADA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-VARUN-KONADA-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://t.me/telegram_username" target="_blank">
+  <a href="https://t.me/AGENT_V" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <!--
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  </a>-->
 </p>
 
 ---
