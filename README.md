@@ -1,4 +1,4 @@
-# 👋 Hi,VARUN here
+# 👋 Hi,am VARUN
 
 ### 🧠 About Me
 - 🔭 I’m currently learning build Python projects & backend web apps
