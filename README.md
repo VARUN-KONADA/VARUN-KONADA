@@ -1,13 +1,12 @@
 # 👋 Hi, I’m VARUN
 
 ### 🧠 About Me
-- 🔭 I’m currently building Python projects & backend web apps
+- 🔭 I’m currently learning build Python projects & backend web apps
 - 🌱 Learning Flask, Git, GitHub, SQL, and scripting
 - 🤖 Interested in automation, Termux tools, and ethical hacking
-- 🚀 2025 Mission: Build 5 strong real-world projects
 
 ### 🛠️ My Tools
-Python | Flask | HTML/CSS | JavaScript | SQLite | Termux | Bash
+Python | Flask | HTML/CSS | JavaScript | SQLite | Termux | Bash |C 
 
 ### 🧩 Projects (Pinned)
 - 📚 Library Management System  
