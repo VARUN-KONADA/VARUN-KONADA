@@ -1,33 +1,69 @@
-# 👋 Hi,am VARUN
+<!-- 🌟 Supercharged & Interactive GitHub Profile README -->
 
-### 🧠 About Me
-- 🔭 I’m currently learning build Python projects & backend web apps
-- 🌱 Learning Flask, Git, GitHub, SQL, and scripting
-- 🤖 Interested in automation, Termux tools, and ethical hacking
+<h1 align="center">Hey there! 👋 I'm Dev</h1>
 
-### 🛠️ My Tools
-Python | Flask | HTML/CSS | JavaScript | SQLite | Termux | Bash |C 
-
-### 🧩 Projects (Pinned)
-- 📚 Library Management System  
-- 🤖 Telegram AI Bot using Llama API  
-- 🐚 Bash Automation Scripts (Termux)  
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUN-KONADA&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN-KONADA&theme=tokyonight" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Developer+💻;Lover+of+Clean+Code+📝;Always+Learning+Something+New+🚀;Let's+build+cool+stuff+🔥" alt="Typing SVG" />
 </p>
 
+---
 
-### 📫 Contact Me
-Feel free to connect via Telegram:[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/AGENT_V)
+## 🧑‍💻 About Me
+
+- 🎓 Student & Web Dev Enthusiast  
+- 🌱 Currently learning: `Node.js`, `React`, `MongoDB`  
+- 👯‍♂️ Looking to collaborate on open-source mini projects  
+- ⚡ Fun Fact: I debug by walking away for snacks 🍫
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevUsername&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevUsername&theme=radical" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUsername&layout=compact&theme=radical" height="140" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevUsername&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/DevUsername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DevUsername-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://t.me/telegram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 "Code. Create. Collaborate." 🚀  
+  <br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</p>
