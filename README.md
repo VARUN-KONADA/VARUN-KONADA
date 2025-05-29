@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevUsername&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VARUN-KONADA&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN-KONADA&theme=radical" height="165" alt="GitHub Streak" />
 </p>
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/VARUN-KONADA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-VARUN-KONADA-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-HI-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://t.me/AGENT_V" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
