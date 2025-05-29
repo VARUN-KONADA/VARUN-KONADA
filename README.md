@@ -19,7 +19,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode,bash" alt="Tech Stack" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/VARUN-KONADA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-VARUN-KONADA-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-DevUsername-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://t.me/AGENT_V" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
