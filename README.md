@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m VARUN
 
-<!--
-**VARUN-KONADA/VARUN-KONADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+- 🔭 I’m currently building Python projects & backend web apps
+- 🌱 Learning Flask, Git, GitHub, SQL, and scripting
+- 🤖 Interested in automation, Termux tools, and ethical hacking
+- 🚀 2025 Mission: Build 5 strong real-world projects
 
-Here are some ideas to get you started:
+### 🛠️ My Tools
+Python | Flask | HTML/CSS | JavaScript | SQLite | Termux | Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Projects (Pinned)
+- 📚 Library Management System  
+- 🤖 Telegram AI Bot using Llama API  
+- 🐚 Bash Automation Scripts (Termux)  
+
+
+### 📫 Contact Me
+Feel free to connect via Telegram: [ @AGENT_V ](https://t.me/AGENT_V)
