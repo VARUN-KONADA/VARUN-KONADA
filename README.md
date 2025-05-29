@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/VARUN-KONADA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-'VARUN-KONADA'-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://t.me/AGENT_V" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
