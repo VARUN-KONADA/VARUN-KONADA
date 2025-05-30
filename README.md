@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN-KONADA&layout=compact&theme=radical" height="140" alt="Top Languages" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VARUN-KONADA&layout=compact&theme=radical&column=3&margin-w=15&margin-h=15" alt="VARUN-KONADA" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VARUN-KONADA&layout=compact&theme=radical&column=3&margin-w=15&margin-h=55" alt="VARUN-KONADA" /></a> </p>
 
 ---
 
