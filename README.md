@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN-KONADA&layout=compact&theme=radical" height="140" alt="Top Languages" />
 </p>
-
+https://github-profile-trophy.vercel.app/?username=VARUN-KONADA&theme=radical
 ---
 
 ## 📈 Visitors
