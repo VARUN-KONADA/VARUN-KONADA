@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋 I'm VARUN</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Passionate+Developer+💻;Lover+of+Clean+Code+📝;Always+Learning+Something+New+🚀;Let's+build+cool+stuff+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=460&lines=Passionate+Developer+💻;Lover+of+Clean+Code+📝;Always+Learning+Something+New+🚀;Let's+build+cool+stuff+🔥" alt="Typing SVG" />
 </p>
 
 ---
