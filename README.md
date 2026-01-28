@@ -12,7 +12,7 @@
 - 🎓 Student & Web Dev Enthusiast  
 - 🌱 Currently learning: `PYTHON`
 - 👯‍♂️ Looking to collaborate on open-source mini projects  
-- ⚡ Fun Fact: I debug by walking away for snacks 🍫
+
 
 ---
 
@@ -31,29 +31,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN-KONADA&theme=radical" height="165" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN-KONADA&layout=compact&theme=radical" height="140" alt="Top Languages" />
-</p>
 
 <!--
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=VARUN-KONADA&layout=compact&theme=radical&column=3&margin-w=15&margin-h=30" alt="VARUN-KONADA" /> </p> -->
 
 ---
 
-## 📈 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VARUN-KONADA&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/VARUN-KONADA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+
   <a href="https://t.me/AGENT_V" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
