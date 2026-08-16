@@ -23,7 +23,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -32,11 +32,11 @@
 </p>
 
 
-<!--
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=VARUN-KONADA&layout=compact&theme=radical&column=3&margin-w=15&margin-h=30" alt="VARUN-KONADA" /> </p> -->
+
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=VARUN-KONADA&layout=compact&theme=radical&column=3&margin-w=15&margin-h=30" alt="VARUN-KONADA" /> </p> 
 
 ---
-
+-->
 
 ## 🔗 Connect With Me
 
