@@ -23,20 +23,16 @@
 </p>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashu-0143&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN-KONADA&theme=radical" height="165" />
   
 </p>
 
-
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=VARUN-KONADA&layout=compact&theme=radical&column=3&margin-w=15&margin-h=30" alt="VARUN-KONADA" /> </p> 
-
 ---
--->
+
 
 ## 🔗 Connect With Me
 
