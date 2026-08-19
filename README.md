@@ -23,7 +23,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 
 ---
-
+-->
 
 ## 🔗 Connect With Me
 
