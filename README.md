@@ -10,8 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Student & Web Dev Enthusiast  
-- 🌱 Currently learning: `PYTHON`
-- 👯‍♂️ Looking to collaborate on open-source mini projects  
+- 🌱 Currently learning: `CS50` 
 
 
 ---
